@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Férias Corporativo",
+  "description": "Sistema completo para solicitação, simulação financeira e gestão de férias conforme regras da CLT com fluxos de aprovação de equipe e RH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
